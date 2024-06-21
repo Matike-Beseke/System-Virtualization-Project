@@ -19,10 +19,11 @@ This System Virtualization project is aimed to test my knowledge in using VMware
 ## Steps
 
 1. Setup and Configure VMware vCenter Server Appliance on an ESXi host (steps only, no depoloyment)
-![IMG_0477](https://github.com/Matike-Beseke/System-Virtualization-Project/assets/172703140/84dc9c5f-db65-42ec-8371-433c7b2e21a7)
 
 - Name is vCenter-YourName
 - Take screenshot of setup summary page, the page before clicking finish (paste below)
+
+![IMG_0477](https://github.com/Matike-Beseke/System-Virtualization-Project/assets/172703140/84dc9c5f-db65-42ec-8371-433c7b2e21a7)
 
 2. Setup and Configure VMware ESXi-YourName Host
 - Add host to vCenter inventory
