@@ -55,25 +55,25 @@ This System Virtualization project is aimed to test my knowledge in using VMware
 - Take screenshot (paste below).
 
 ![IMG_0481](https://github.com/Matike-Beseke/System-Virtualization-Project/assets/172703140/55013f5e-4fcc-42d8-bc5b-daebc2ff8101)
+![IMG_0482](https://github.com/Matike-Beseke/System-Virtualization-Project/assets/172703140/81e22bae-11dc-404b-ae73-d649b3b8dfca)
 
 6. Create a VMFS Datastore called YourName-DS
 
 - Take screenshot (paste below)
 
-![IMG_0482](https://github.com/Matike-Beseke/System-Virtualization-Project/assets/172703140/81e22bae-11dc-404b-ae73-d649b3b8dfca)
+![IMG_0483](https://github.com/Matike-Beseke/System-Virtualization-Project/assets/172703140/c2dc807f-c7d4-4ef4-8ffa-71d1a4cb080d)
 
 7. Create a resource pool named YourName-Final
 
 - Take screenshot (paste below).
 
-![IMG_0483](https://github.com/Matike-Beseke/System-Virtualization-Project/assets/172703140/c2dc807f-c7d4-4ef4-8ffa-71d1a4cb080d)
-
+![IMG_0484](https://github.com/Matike-Beseke/System-Virtualization-Project/assets/172703140/44ebbb57-be21-454e-95ed-cb9ea6eb0028)
 
 8. Take snapshots of your YourName-VM virtual machine
 
 - Take screenshot of your snapshot (paste below).
 
-![IMG_0484](https://github.com/Matike-Beseke/System-Virtualization-Project/assets/172703140/44ebbb57-be21-454e-95ed-cb9ea6eb0028)
+![IMG_0486](https://github.com/Matike-Beseke/System-Virtualization-Project/assets/172703140/ee157438-e519-465e-a462-5a176ad5b533)
 
 9. Take a screenshot of the CPU utilization on an ESXi host (paste below).
 
