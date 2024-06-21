@@ -2,7 +2,7 @@
 
 ## Objective
 
-This System Virtualization project aimed to test my knowledge in using VMware. This was for a school final, however I see the potential in being able to work your way around this specific vendor. In this lab I will list all the instructions given to me and drop the image of the completed task below.
+This System Virtualization project is aimed to test my knowledge in using VMware (a service used to manage and administrate virtualization recources). This was for a school final, however I see the potential in being able to work your way around this specific vendor. In this lab I will list all the instructions given to me and drop the image of the completed task below.
 
 ### Skills Learned
 
